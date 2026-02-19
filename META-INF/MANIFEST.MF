@@ -1,0 +1,6 @@
+MIDlet-Name: Racing3D
+MIDlet-Version: 1.0
+MIDlet-Vendor: Seu Nome
+MIDlet-1: Racing, , RacingMIDlet
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
